@@ -1,0 +1,23 @@
+# Datasets are published separately on Hugging Face, never committed here.
+*.hdf5
+*.h5
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Training artefacts
+logs/
+outputs/
+runs/
+wandb/
+*.pth
+*.ckpt
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/

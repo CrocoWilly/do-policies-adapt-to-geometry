@@ -1,0 +1,47 @@
+ii  libnvidia-cfg1-580:amd64                          580.159.03-0ubuntu0.22.04.1             amd64        NVIDIA binary OpenGL/GLX configuration library
+ii  libnvidia-common-580                              580.159.03-0ubuntu0.22.04.1             all          Shared files used by the NVIDIA libraries
+rc  libnvidia-compute-565:amd64                       565.77-0ubuntu0~gpu22.04.1              amd64        NVIDIA libcompute package
+hi  libnvidia-compute-580:amd64                       580.159.03-0ubuntu0.22.04.1             amd64        NVIDIA libcompute package
+ii  libnvidia-container-tools                         1.18.0-1                                amd64        NVIDIA container runtime library (command-line tools)
+ii  libnvidia-container1:amd64                        1.18.0-1                                amd64        NVIDIA container runtime library
+ii  libnvidia-decode-580:amd64                        580.159.03-0ubuntu0.22.04.1             amd64        NVIDIA Video Decoding runtime libraries
+ii  libnvidia-egl-wayland1:amd64                      1:1.1.17-0ubuntu0~gpu22.04.1            amd64        Wayland EGL External Platform library -- shared library
+ii  libnvidia-encode-580:amd64                        580.159.03-0ubuntu0.22.04.1             amd64        NVENC Video Encoding runtime library
+ii  libnvidia-extra-580:amd64                         580.159.03-0ubuntu0.22.04.1             amd64        Extra libraries for the NVIDIA driver
+ii  libnvidia-fbc1-580:amd64                          580.159.03-0ubuntu0.22.04.1             amd64        NVIDIA OpenGL-based Framebuffer Capture runtime library
+ii  libnvidia-gl-580:amd64                            580.159.03-0ubuntu0.22.04.1             amd64        NVIDIA OpenGL/GLX/EGL/GLES GLVND libraries and Vulkan ICD
+rc  linux-modules-nvidia-580-6.8.0-100-generic        6.8.0-100.100~22.04.1                   amd64        Linux kernel nvidia modules for version 6.8.0-100
+rc  linux-modules-nvidia-580-6.8.0-101-generic        6.8.0-101.101~22.04.1                   amd64        Linux kernel nvidia modules for version 6.8.0-101
+rc  linux-modules-nvidia-580-6.8.0-106-generic        6.8.0-106.106~22.04.1                   amd64        Linux kernel nvidia modules for version 6.8.0-106
+rc  linux-modules-nvidia-580-6.8.0-107-generic        6.8.0-107.107~22.04.1                   amd64        Linux kernel nvidia modules for version 6.8.0-107
+rc  linux-modules-nvidia-580-6.8.0-85-generic         6.8.0-85.85~22.04.1+2                   amd64        Linux kernel nvidia modules for version 6.8.0-85
+rc  linux-modules-nvidia-580-6.8.0-86-generic         6.8.0-86.87~22.04.1+1                   amd64        Linux kernel nvidia modules for version 6.8.0-86
+rc  linux-modules-nvidia-580-6.8.0-87-generic         6.8.0-87.88~22.04.1+1                   amd64        Linux kernel nvidia modules for version 6.8.0-87
+rc  linux-modules-nvidia-580-6.8.0-88-generic         6.8.0-88.89~22.04.2                     amd64        Linux kernel nvidia modules for version 6.8.0-88
+rc  linux-modules-nvidia-580-6.8.0-90-generic         6.8.0-90.91~22.04.1+1                   amd64        Linux kernel nvidia modules for version 6.8.0-90
+rc  linux-modules-nvidia-580-6.8.0-94-generic         6.8.0-94.96~22.04.1                     amd64        Linux kernel nvidia modules for version 6.8.0-94
+rc  linux-objects-nvidia-580-6.8.0-100-generic        6.8.0-100.100~22.04.1                   amd64        Linux kernel nvidia modules for version 6.8.0-100 (objects)
+rc  linux-objects-nvidia-580-6.8.0-101-generic        6.8.0-101.101~22.04.1                   amd64        Linux kernel nvidia modules for version 6.8.0-101 (objects)
+rc  linux-objects-nvidia-580-6.8.0-106-generic        6.8.0-106.106~22.04.1                   amd64        Linux kernel nvidia modules for version 6.8.0-106 (objects)
+rc  linux-objects-nvidia-580-6.8.0-107-generic        6.8.0-107.107~22.04.1                   amd64        Linux kernel nvidia modules for version 6.8.0-107 (objects)
+ii  linux-objects-nvidia-580-6.8.0-110-generic        6.8.0-110.110~22.04.1+1                 amd64        Linux kernel nvidia modules for version 6.8.0-110 (objects)
+ii  linux-objects-nvidia-580-6.8.0-111-generic        6.8.0-111.111~22.04.1+1                 amd64        Linux kernel nvidia modules for version 6.8.0-111 (objects)
+rc  linux-objects-nvidia-580-6.8.0-85-generic         6.8.0-85.85~22.04.1+2                   amd64        Linux kernel nvidia modules for version 6.8.0-85 (objects)
+rc  linux-objects-nvidia-580-6.8.0-86-generic         6.8.0-86.87~22.04.1+1                   amd64        Linux kernel nvidia modules for version 6.8.0-86 (objects)
+rc  linux-objects-nvidia-580-6.8.0-87-generic         6.8.0-87.88~22.04.1+1                   amd64        Linux kernel nvidia modules for version 6.8.0-87 (objects)
+rc  linux-objects-nvidia-580-6.8.0-88-generic         6.8.0-88.89~22.04.2                     amd64        Linux kernel nvidia modules for version 6.8.0-88 (objects)
+rc  linux-objects-nvidia-580-6.8.0-90-generic         6.8.0-90.91~22.04.1+1                   amd64        Linux kernel nvidia modules for version 6.8.0-90 (objects)
+rc  linux-objects-nvidia-580-6.8.0-94-generic         6.8.0-94.96~22.04.1                     amd64        Linux kernel nvidia modules for version 6.8.0-94 (objects)
+ii  linux-signatures-nvidia-6.8.0-110-generic         6.8.0-110.110~22.04.1+1                 amd64        Linux kernel signatures for nvidia modules for version 6.8.0-110-generic
+ii  linux-signatures-nvidia-6.8.0-111-generic         6.8.0-111.111~22.04.1+1                 amd64        Linux kernel signatures for nvidia modules for version 6.8.0-111-generic
+ii  nvidia-compute-utils-580                          580.159.03-0ubuntu0.22.04.1             amd64        NVIDIA compute utilities
+hi  nvidia-dkms-580                                   580.159.03-0ubuntu0.22.04.1             amd64        NVIDIA DKMS package
+hi  nvidia-driver-580                                 580.159.03-0ubuntu0.22.04.1             amd64        NVIDIA driver metapackage
+ii  nvidia-firmware-580-580.159.03                    580.159.03-0ubuntu0.22.04.1             amd64        Firmware files used by the kernel module
+ii  nvidia-kernel-common-580                          580.159.03-0ubuntu0.22.04.1             amd64        Shared files used with the kernel module
+ii  nvidia-kernel-source-580                          580.159.03-0ubuntu0.22.04.1             amd64        NVIDIA kernel source package
+ii  nvidia-prime                                      0.8.17.1                                all          Tools to enable NVIDIA's Prime
+ii  nvidia-settings                                   510.47.03-0ubuntu1.22.04.1              amd64        Tool for configuring the NVIDIA graphics driver
+hi  nvidia-utils-580                                  580.159.03-0ubuntu0.22.04.1             amd64        NVIDIA driver support binaries
+ii  screen-resolution-extra                           0.18.2ubuntu0.1                         all          Extension for the nvidia-settings control panel
+ii  xserver-xorg-video-nvidia-580                     580.159.03-0ubuntu0.22.04.1             amd64        NVIDIA binary Xorg driver
